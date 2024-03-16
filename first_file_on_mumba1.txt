@@ -1,2 +1,3 @@
 This is the first line
 This is the second line being added after setting user.name and user.email global config settings
+Adding third line. This is after pushing the file to git already
