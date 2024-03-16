@@ -3,3 +3,4 @@ This is the second line being added after setting user.name and user.email globa
 Adding third line. This is after pushing the file to git already
 Adding fourth line. File was commited after adding third line but not committed yet
 Adding this fifth line from the Singapore Server
+Adding the sixth line from the dedicated folder unlike earlier
