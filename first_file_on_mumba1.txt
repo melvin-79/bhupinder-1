@@ -4,3 +4,4 @@ Adding third line. This is after pushing the file to git already
 Adding fourth line. File was commited after adding third line but not committed yet
 Adding this fifth line from the Singapore Server
 Adding the sixth line from the dedicated folder unlike earlier
+Addiing this seventh line from my CentoS VM in my personal laptop
