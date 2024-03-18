@@ -3,6 +3,7 @@ This is the code that i would commit to local repo and also push to central repo
 
 
 
+First Feature : Now , this is the code i was assigned to start working on, when something would come up due to which i wont be able to add or commit this
 
 
 
@@ -11,3 +12,4 @@ This is the code that i would commit to local repo and also push to central repo
 
 
 Second Feature :- Now , say this is the urgent piece of work for which i had to send the file with code for Feature1 to stash
+
