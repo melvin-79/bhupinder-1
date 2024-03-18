@@ -1,1 +1,13 @@
 This is the code that i would commit to local repo and also push to central repo, before i will be asked to work on some other tasks
+
+
+
+
+
+
+
+
+
+
+
+Second Feature :- Now , say this is the urgent piece of work for which i had to send the file with code for Feature1 to stash
