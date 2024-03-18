@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the confliffile for demo in main branch
+=======
+Trying to demo conflict file while merging
+>>>>>>> branch1
