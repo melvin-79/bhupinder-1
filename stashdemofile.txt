@@ -13,3 +13,4 @@ First Feature : Now , this is the code i was assigned to start working on, when 
 
 Second Feature :- Now , say this is the urgent piece of work for which i had to send the file with code for Feature1 to stash
 
+To check the differences using git diff
