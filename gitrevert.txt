@@ -1,3 +1,5 @@
 first line
-second line
+
 third line
+=======
+>>>>>>> parent of 1ac37fd... Second commitwq
